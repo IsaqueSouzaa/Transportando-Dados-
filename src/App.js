@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header> 
-      <p>Orion Transportes</p>
+      <p className="logo">Orion Transportes</p>
       </header>
     </div>
   );

@@ -1,4 +1,14 @@
-header{
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+  display: flex;
+  align-items: flex-start;
  color: rgb(35, 175, 35); 
- font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding-top: 20px;
+padding-left: 10px;
+
 }
